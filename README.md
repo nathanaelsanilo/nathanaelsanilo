@@ -4,7 +4,9 @@
         <a href="https://linkedin.com/in/nathanael-sanilo-49093465">
             <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedIn" />
         </a>
-        <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fnathanaelsanilo&style=for-the-badge&logo=X">
+        <a href="https://x.com/nathanaelsanilo">
+            <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fnathanaelsanilo&style=for-the-badge&logo=X">
+        </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=nathanaelsanilo&label=Profile%20views&color=0e75b6&style=flat" alt="nathanaelsanilo" />
     
