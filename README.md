@@ -8,15 +8,13 @@
             <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fnathanaelsanilo&style=for-the-badge&logo=X">
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=nathanaelsanilo&label=Profile%20views&color=0e75b6&style=flat" alt="nathanaelsanilo" />
-    
+    <img src="https://komarev.com/ghpvc/?username=nathanaelsanilo&label=Profile%20views&color=0e75b6&style=flat" alt="nathanaelsanilo" />    
 </div>
 
 <div align="center">
     <h1>Hi 👋, I'm Nathan</h1>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNsdTI2d2U4aXJreTZ2bHA0d3ZuNDR1N2I1dTc5bTlpdXM5dzI5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nUP5CBTmV8RfSW4/giphy.gif" />
 </div>
-
----
 
 ### :technologist: About Me :
 
