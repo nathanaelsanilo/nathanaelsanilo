@@ -7,6 +7,9 @@
         <a href="https://x.com/nathanaelsanilo">
             <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fnathanaelsanilo&style=for-the-badge&logo=X">
         </a>
+        <a href="https://www.threads.net/@nathanael169">
+            <img src="https://img.shields.io/badge/Threads-000?logo=threads&logoColor=white&style=for-the-badge" alt="Threads" />
+        </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=nathanaelsanilo&label=Profile%20views&color=0e75b6&style=flat" alt="nathanaelsanilo" />    
 </div>
